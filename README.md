@@ -4,6 +4,7 @@ A GDscript based hex library with storage and helper functions.
 To use in your own project stick the HexMap folder in addons at the top level of your project folder. In Project Properties enable the plugin. The new HexMap Node will be available to use.
 
 # Usage
+```
 Public properties
 var is_flat
 var size
@@ -35,3 +36,4 @@ func diagonal_neighbor_hex(hex, direction):
 Distance and from origin hex lengths.
 func hex_length(hex):
 func hex_distance(hex_a, hex_b):
+```
