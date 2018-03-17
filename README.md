@@ -34,3 +34,5 @@ func diagonal_neighbor_hex(hex, direction):
 func hex_length(hex):
 func hex_distance(hex_a, hex_b):
 ```
+
+Credit to RedBlobGames for their Hex Map Resources.
